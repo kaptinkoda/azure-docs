@@ -17,7 +17,7 @@ Azure Cache for Redis has different cache offerings that provide flexibility in 
 
 ## When to scale
 
-You can use the [monitoring](cache-how-to-monitor.md) features of Azure Cache for Redis to monitor the health and performance of your cache. Use that information determine when to scale the cache.
+You can use the [monitoring](cache-how-to-monitor.md) features of Azure Cache for Redis to monitor the health and performance of your cache. Use that information to determine when to scale the cache.
 
 You can monitor the following metrics to help determine if you need to scale.
 
